@@ -1,0 +1,3 @@
+beautifulsoup4==4.8.0
+extractcontent3==0.0.2
+selenium==3.141.0
